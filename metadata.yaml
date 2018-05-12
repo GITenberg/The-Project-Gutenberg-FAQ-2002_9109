@@ -1,10 +1,16 @@
 _repo: The-Project-Gutenberg-FAQ-2002_9109
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Tinsley, Jim
     gutenberg_agent_id: '2980'
     url: http://www.gutenberg.org/2009/agents/2980
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9109#The-Project-Gutenberg-FAQ-2002
 gutenberg_issued: '2005-10-01'
 gutenberg_type: Text
 identifiers:
