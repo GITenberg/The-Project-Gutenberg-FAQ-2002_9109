@@ -22,5 +22,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Project Gutenberg'
 - !lcc 'Z'
+- GITenberg
 title: The Project Gutenberg FAQ 2002
 url: http://www.gutenberg.org/ebooks/9109
